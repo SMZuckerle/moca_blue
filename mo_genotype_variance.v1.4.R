@@ -8,6 +8,8 @@
 # Hereafter, I used occ_filter_v1.1.R to parse the matches for further analyses. 
 # SMZ 2023-08-30
 ##############################################################
+setwd("G:\Machina_Eva\R_Home\moca_blue")
+##############################################################
 PROJECT <- "Soly14sols-0e4-cwm-W2"
 SPEC <- "Soly"
 MODEL <- "S0"
